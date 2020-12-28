@@ -1,0 +1,27 @@
+body{
+    height: 150;
+    width:auto;
+    background-image:url("https://cdn.wallpapersafari.com/93/55/RaIO0u.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+}
+.login_player1 , .login_player2{
+		background-color: rgb(255, 180, 211);
+        color: crimson;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name{
+	display: inline-block;
+	margin-left: 20px;
+    width: auto;
+    
+}
+#my_login{
+    background-color: rgb(255, 180, 211);
+        color: crimson;
+}
